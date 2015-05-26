@@ -58,3 +58,5 @@ for (var i = 0; i < toDoList.children.length; i++) {
   bindTaskList(toDoList.children[i], deleteTask);
 
 }
+
+
