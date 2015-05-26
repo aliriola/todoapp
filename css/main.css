@@ -173,7 +173,9 @@ html {
 body{
   background-color: #f8f8f8;
   font-family: 'OpenSans', san-serif;
+  
 }
+
 
 
 
@@ -288,16 +290,18 @@ span {
   box-shadow: 5px 5px 5px rgba(68,68,68,0.3);
   margin: 10px 0 50px 0;
   border: thin #eaeae8 solid;
+  height: 40px;
+  color: #525656;
+  
 
 }
 
-span p {
-    margin-left: 10px;
-    color: #525656;
-}
+
+
+
 
 footer {
-    font-size: .5em;
+    font-size: .67em;
     text-align: center;
     margin: 0 auto;
     border-top: 1px grey dotted ;
@@ -335,6 +339,8 @@ input[type=checkbox]:hover {
     
 
 }
+
+
 }
 
 
