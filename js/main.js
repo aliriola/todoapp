@@ -13,7 +13,7 @@ var createNewTask = function(taskEntered) {
   var checkBox = document.createElement('input');
   var span = document.createElement('span');
 
-  span.innerText = taskEntered;
+  span.innerHTML = taskEntered;
   checkBox.type = "checkbox";
 
   listItem.appendChild(checkBox);
