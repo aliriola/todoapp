@@ -1,6 +1,6 @@
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 @import url(http://fonts.googleapis.com/css?family=Lobster);
-@import url(http://fonts.googleapis.com/css?family=OpenSans);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 html {
     color: #222;
@@ -293,6 +293,7 @@ span {
   border: thin #eaeae8 solid;
   height: 50px;
   color: #525656;
+  padding: 10px 25px;
   
 
 }
